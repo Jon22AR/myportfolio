@@ -1,0 +1,7 @@
+Thank you so much to bedimcode for their amazing expertise in
+developing this website! Their video on Youtube was a great guide and
+helped teach me many new commands and functions for both html, css, and
+js.
+
+https://www.youtube.com/bedimcode
+https://github.com/bedimcode
